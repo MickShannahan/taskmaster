@@ -1,4 +1,4 @@
-import { generateId } from "../utils.js";
+import { generateId } from "../Utils/GenerateId.js";
 
 export default class List {
   constructor(data) {
